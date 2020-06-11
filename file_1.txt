@@ -2,3 +2,6 @@ New line of text on first line.
 Hello classmates.
 This is a test.
 I'm creating a new text file.
+Here's a new line
+Thanks for coming to class.
+I hope you have a nice day.
