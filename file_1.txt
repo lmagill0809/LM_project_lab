@@ -1,3 +1,4 @@
+New line of text on first line.
 Hello classmates.
 This is a test.
 I'm creating a new text file.
